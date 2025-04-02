@@ -6,6 +6,9 @@ This project is part of the ISIC Challenge for skin cancer classification. It us
 
 This repository contains a deep learning model for **skin cancer classification**, built as a beginner-friendly project for the **ISIC Challenge**. The model is trained using **TensorFlow** and **Keras**, leveraging **EfficientNetB3** for transfer learning.
 
+### 📌 Image
+![image](./img.png)
+
 ## 📌 Features
 - **Pretrained EfficientNetB3** for high accuracy
 - **Data Augmentation** to improve generalization
